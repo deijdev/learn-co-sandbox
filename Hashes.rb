@@ -1,0 +1,1 @@
+new_hash = {created: time.now, message: "Hello world!"}
